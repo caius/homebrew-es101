@@ -1,6 +1,6 @@
 require "formula"
 
-class Elasticsearch < Formula
+class Elasticsearch101 < Formula
   homepage 'http://www.elasticsearch.org'
   url 'https://download.elasticsearch.org/elasticsearch/elasticsearch/elasticsearch-1.0.1.tar.gz'
   sha1 '26bcf8e36576b2f3809ab84432ea005f893836b9'
