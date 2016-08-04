@@ -4,8 +4,12 @@ Formula to install ElasticSearch 1.0.1 under Homebrew.
 
 ## Installation
 
-    $ brew tap caius/es101
-    $ brew install elasticsearch101
+```shell
+brew tap caius/es101
+brew install elasticsearch101
+# or
+brew install elasticsearch15
+```
 
 ## [Formula] License
 
